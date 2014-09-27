@@ -47,3 +47,10 @@ Server = http://mate.mirrors.archlinuxcn.org/$arch
 [haskell-core]
 Server = http://haskell-core.mirrors.archlinuxcn.org/$arch
 ```
+
+```
+# Pipelight Arch repo
+# http://repos.fds-team.de/stable/arch/
+[pipelight]
+Server = http://pipelight.mirrors.archlinuxcn.org/$arch
+```
