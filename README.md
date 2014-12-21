@@ -17,40 +17,40 @@ Server = http://linux-ck.mirrors.archlinuxcn.org/$arch
 ```
 #repo.archlinux.fr
 [archlinuxfr]
-Server = http://archlinuxfr.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
 
 ```
 [catalyst]
-Server = http://catalyst.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
 
 ```
 [arch-fonts]
-Server = http://arch-fonts.mirrors.archlinuxcn.org/
+Server = http://$repo.mirrors.archlinuxcn.org/
 ```
 
 ```
 [pfkernel]
-Server = http://pfkernel.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
 
 ```
 #http://repo.mate-desktop.org/archlinux/$arch
 [mate]
-Server = http://mate.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
 
 ```
 # ArchHaskell core repo
 # http://xsounds.org/~haskell/core/
 [haskell-core]
-Server = http://haskell-core.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
 
 ```
 # Pipelight Arch repo
 # http://repos.fds-team.de/stable/arch/
 [pipelight]
-Server = http://pipelight.mirrors.archlinuxcn.org/$arch
+Server = http://$repo.mirrors.archlinuxcn.org/$arch
 ```
